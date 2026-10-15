@@ -1,5 +1,7 @@
 # Mosaic Market
 
+**Live store:** [Open Mosaic Market](https://mosaic-market-alpha.vercel.app/)
+
 A responsive React marketplace storefront inspired by large online shopping sites, with its own name, visual identity, and a 44-product sample catalog across five departments.
 
 ## Run locally
@@ -44,4 +46,3 @@ pnpm preview
 ```
 
 The production site is generated in `dist/` and can be deployed to any static host.
-
